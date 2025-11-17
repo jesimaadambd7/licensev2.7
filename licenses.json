@@ -7,8 +7,7 @@
     "used_count": 1,
     "devices": [
       "ec0908c40256221c69e903166bafe115d35032bc271181fc5b4d37a8aad3c99e"
-    ],
-    "user_name": "gasfasdf"
+    ]
   },
   {
     "token": "eyJleHAiOjE3NjQ1ODMxMDY1NTEsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.a68b436bdda2647ec23b121ded771d1d4e53a9009acf67ddc80ee93ac2f8ca13",
@@ -36,7 +35,9 @@
     "exp": "2025-12-01",
     "max_uses": 1,
     "used_count": 1,
-    "devices": []
+    "devices": [
+      "e4d1f469546ed56bd4949bfb5ae313afd97c6bb98b20f406026a10135765e83e"
+    ]
   },
   {
     "token": "eyJleHAiOjE3NjQ2MDgxNTE2NjIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.373a9b9e3a21ac065e8c05dcf22050170cdef096b2c1d79a40846905d5a2991d",
