@@ -92,10 +92,8 @@
     "created": "2025-11-16",
     "exp": "2025-12-01",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "47583f78c4ac4fb22782df1195c4978f6d27357de54d2d61fcb07523ecf37498"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjQ2NDk4Njc4NjIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.a0953cc407ceab8b8c9b57890edcf1da484ab58cae3557a30f11b28fb5e809d7",
@@ -106,5 +104,14 @@
     "devices": [
       "gdfgfdgd"
     ]
+  },
+  {
+    "token": "eyJleHAiOjE3NjU5Njk1MjIzNzcsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.4be361949f076869b1255941325090d0c6ac385d83c35ecab25359d00c0d7a48",
+    "created": "2025-11-17",
+    "exp": "2025-12-17",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@Rasel2k11"
   }
 ]
