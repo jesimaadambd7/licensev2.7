@@ -146,14 +146,5 @@
     "used_count": 0,
     "devices": [],
     "user_name": "faf"
-  },
-  {
-    "token": "eyJleHAiOjE3NjQ2OTQwMzQ3NDksIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.1df44e0304f9fa598f65dbbd3c4eac8c24e826e2271910e988338190bb214f3e",
-    "created": "2025-11-17",
-    "exp": "2025-12-02",
-    "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
-    "user_name": "tet"
   }
 ]
