@@ -116,5 +116,14 @@
     "devices": [
       "531966a010241c1835ac158533adefe266ba309db97b648b6c0fe6857ff2b576"
     ]
+  },
+  {
+    "token": "eyJleHAiOjE3NjQ2ODgxMjc0NTMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.a4710622f8950d40e48f2a15594a5469a6f8d96b1c8147526189909be70a871e",
+    "created": "2025-11-17",
+    "exp": "2025-12-02",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@Maxmarud"
   }
 ]
