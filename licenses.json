@@ -94,8 +94,10 @@
     "created": "2025-11-16",
     "exp": "2025-12-01",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": []
+    "used_count": 1,
+    "devices": [
+      "47583f78c4ac4fb22782df1195c4978f6d27357de54d2d61fcb07523ecf37498"
+    ]
   },
   {
     "token": "eyJleHAiOjE3NjQ2NDk4Njc4NjIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.a0953cc407ceab8b8c9b57890edcf1da484ab58cae3557a30f11b28fb5e809d7",
@@ -135,8 +137,7 @@
     "used_count": 1,
     "devices": [
       "4c316859ecc1835fc93befb15a58ffe4e3e41256010250b03e5795026ab1f671"
-    ],
-    "user_name": "msik"
+    ]
   },
   {
     "token": "eyJleHAiOjE3NjQ2OTQxNDM3NDEsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.34d822a9233443b73244734fcf84f441defa6f7cd2c0e55b6d86f6fc8086b94d",
@@ -144,7 +145,6 @@
     "exp": "2025-12-02",
     "max_uses": 1,
     "used_count": 0,
-    "devices": [],
-    "user_name": "@AbuBakkarGlobal"
+    "devices": []
   }
 ]
