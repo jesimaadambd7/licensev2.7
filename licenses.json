@@ -135,8 +135,7 @@
     "used_count": 1,
     "devices": [
       "4c316859ecc1835fc93befb15a58ffe4e3e41256010250b03e5795026ab1f671"
-    ],
-    "user_name": "msik"
+    ]
   },
   {
     "token": "eyJleHAiOjE3NjQ2OTQxNDM3NDEsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.34d822a9233443b73244734fcf84f441defa6f7cd2c0e55b6d86f6fc8086b94d",
@@ -144,8 +143,7 @@
     "exp": "2025-12-02",
     "max_uses": 1,
     "used_count": 0,
-    "devices": [],
-    "user_name": "@AbuBakkarGlobal"
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjQ3ODE2MDU2OTIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.a547d6954d3fba439cf05c1007d389f6833442661907fdeaed307c845a559911",
@@ -153,8 +151,7 @@
     "exp": "2025-12-03",
     "max_uses": 1,
     "used_count": 0,
-    "devices": [],
-    "user_name": "@Raselislambd2025"
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjQ3ODE2MTU1NzUsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.3bb1321d8a79d5b590aa88de30446994d0a43ad68d970f594b2e713c64f73f35",
@@ -162,17 +159,17 @@
     "exp": "2025-12-03",
     "max_uses": 1,
     "used_count": 0,
-    "devices": [],
-    "user_name": "@Raselislambd2025"
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjYwNzc4Mzc3ODIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.d8658795eea3ba199ba26ba8a30c862998b099b219dd76a6a1e667b54b45d261",
     "created": "2025-11-18",
     "exp": "2025-12-18",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
-    "user_name": "@Rafiul13"
+    "used_count": 1,
+    "devices": [
+      "4a83996bdc60a273b84209effaecc93d16646654b14255b0cafbb08ca6d7bc51"
+    ]
   },
   {
     "token": "eyJleHAiOjE3NjQ3ODE4OTg5ODIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.66858f5e31f75b1de6ad9a57bebdcfd505011a50f009601c0e7a54a4889e8dbd",
@@ -180,7 +177,6 @@
     "exp": "2025-12-03",
     "max_uses": 1,
     "used_count": 0,
-    "devices": [],
-    "user_name": "@Rasel01780"
+    "devices": []
   }
 ]
