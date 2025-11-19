@@ -205,8 +205,10 @@
     "created": "2025-11-19",
     "exp": "2025-12-04",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "4e16b56a5521f71be3d2415aaa597a908263cff56257e0ff85cdf1565b6c6848"
+    ],
     "user_name": "@Mahfujhossainsojon"
   },
   {
