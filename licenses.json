@@ -274,8 +274,10 @@
     "created": "2025-11-19",
     "exp": "2025-12-04",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "cceb78519d10953cc50ba76fe160b44268ecc52a7eaa3adcd1b16323a488ed73"
+    ],
     "user_name": "@Faruk_khan70"
   }
 ]
