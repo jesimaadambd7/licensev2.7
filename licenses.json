@@ -248,5 +248,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "@Shakib44"
+  },
+  {
+    "token": "eyJleHAiOjE3NjQzMjQxODUwMTUsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.36606d7d703e045e5240937eb62d82f4cba5eb13f6d15f732a4f4cbf160f4a01",
+    "created": "2025-11-19",
+    "exp": "2025-11-28",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@alaminhasanjoy"
   }
 ]
