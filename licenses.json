@@ -205,10 +205,8 @@
     "created": "2025-11-19",
     "exp": "2025-12-04",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "4e16b56a5521f71be3d2415aaa597a908263cff56257e0ff85cdf1565b6c6848"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@Mahfujhossainsojon"
   },
   {
@@ -219,5 +217,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "@miraz_2025"
+  },
+  {
+    "token": "eyJleHAiOjE3NjQ4NDExNzIwMTYsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.84d5274a8bad2cf82312bdce3c3313355048ebb150d91149fa4dee734a2d7d52",
+    "created": "2025-11-19",
+    "exp": "2025-12-04",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@ashraf_5000"
   }
 ]
