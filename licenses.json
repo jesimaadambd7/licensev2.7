@@ -236,8 +236,10 @@
     "created": "2025-11-19",
     "exp": "2025-12-04",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "dcb68a11eca9a50e97a7cef099338f68aca4b614fa5937763126042495fd07ed"
+    ],
     "user_name": "@Shojib23"
   },
   {
