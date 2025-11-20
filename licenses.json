@@ -313,8 +313,10 @@
     "created": "2025-11-19",
     "exp": "2025-11-29",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "824ba738fcd0c9dbd05d561bbc11dafdc7e34ad2c5764d633724821e8209128f"
+    ],
     "user_name": "@Maswood007"
   },
   {
