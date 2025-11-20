@@ -336,8 +336,10 @@
     "created": "2025-11-20",
     "exp": "2025-12-05",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "8211588b4e4fee12502ce1e079bd902e563f633cc0e0c0b8427062dfa87be376"
+    ],
     "user_name": "@fakerony"
   }
 ]
