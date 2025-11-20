@@ -293,8 +293,10 @@
     "created": "2025-11-19",
     "exp": "2025-12-19",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "3b204ac06a1c0b2a124ba68aa00cbbb7297f953237d7fd0f70d86e24ad56c310"
+    ],
     "user_name": "@gmailprovide25"
   },
   {
