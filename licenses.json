@@ -326,8 +326,10 @@
     "created": "2025-11-20",
     "exp": "2025-11-30",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "23cb7d0382d076ccc3d74f58fe20f71743b4eb6c577aa0ec87c2fdcf6442e153"
+    ],
     "user_name": "@Bumblebee10N91"
   }
 ]
