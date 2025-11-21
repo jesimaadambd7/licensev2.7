@@ -412,8 +412,10 @@
     "created": "2025-11-21",
     "exp": "2025-12-06",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "1270191a6a2f5fbf5ccc3de32c328df547b259a87e10e86f196c3f1105c9182b"
+    ],
     "user_name": "@no_name_my_000"
   }
 ]
