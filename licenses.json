@@ -407,5 +407,14 @@
       "1270191a6a2f5fbf5ccc3de32c328df547b259a87e10e86f196c3f1105c9182b"
     ],
     "user_name": "@no_name_my_000"
+  },
+  {
+    "token": "eyJleHAiOjE3NjQ2MDY0ODQ4NjcsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.b9df4db989cefa61004fb7fc5880fab9d43d0b36fbba6c17c88cb7a8943806ad",
+    "created": "2025-11-21",
+    "exp": "2025-12-01",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "seven1tel"
   }
 ]
