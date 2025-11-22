@@ -384,8 +384,10 @@
     "created": "2025-11-21",
     "exp": "2025-12-01",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "a5e569f5d9ce67d8fb8544e1caed80fe09df20b23369a029e8c51b5180917b9a"
+    ],
     "user_name": "akran vai"
   },
   {
