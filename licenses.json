@@ -452,5 +452,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "@anowar391"
+  },
+  {
+    "token": "eyJleHAiOjE3NjUwOTc4ODg2ODgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.e66822f6c382ff049e6fed04f5a9ff2bb3082dcb6cc053f8fc6e1690615ed1cc",
+    "created": "2025-11-22",
+    "exp": "2025-12-07",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@Himel_B0T"
   }
 ]
