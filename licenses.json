@@ -24,10 +24,8 @@
     "created": "2025-11-16",
     "exp": null,
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "a590f3ee9486cb92c73c22099ab3aed2ce729145f8f1318fe6fa7f6b3b4de8cc"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjQ2MDcxMjI1NTAsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.56ca978c92110b646a0a2f614a9b4394441dfe751283b44511a065c1e6ecf679",
@@ -482,5 +480,14 @@
       "408a16503f766d46a43d49d99bfaf9c628604ccefdd0e96c321941fba711a1b2"
     ],
     "user_name": "@Work_online888"
+  },
+  {
+    "token": "eyJleHAiOjE3NjY0MDI5ODA1NDIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.45021e1c7d37560a4f50fc33ec34837d77b6c4c740f081a6047de3555e272ad6",
+    "created": "2025-11-22",
+    "exp": "2025-12-22",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@nusratfariha025"
   }
 ]
