@@ -365,8 +365,7 @@
     "exp": "2025-12-01",
     "max_uses": 1,
     "used_count": 0,
-    "devices": [],
-    "user_name": "test"
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjQ1ODY4MzcyNTQsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.ff2b7ed6d8799415dbf590f3f3eeac469577000b9f488d9f571071a8d9b4f88e",
@@ -376,17 +375,17 @@
     "used_count": 1,
     "devices": [
       "1e02055fa9348b1a63e1bbc50bdfa199b2187c917196efdf5f16912189f48109"
-    ],
-    "user_name": "tamim vai"
+    ]
   },
   {
     "token": "eyJleHAiOjE3NjQ2MDI4ODEzMjUsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.abee78967b6523bbbfcb35fb8c5aefc82f8e5cd56f86cbd365bdbd530babbc77",
     "created": "2025-11-21",
     "exp": "2025-12-01",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
-    "user_name": "akran vai"
+    "used_count": 1,
+    "devices": [
+      "81298af36c6ef8040ad698830b34dc260abaf59b904849ca89f6fce52c7f06aa"
+    ]
   },
   {
     "token": "eyJleHAiOjE3NjUwMzc0ODY2MjgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.a9b161bd412d7cc7959205040a3eec9579f928b72bd003cda4d75fbf2afcfc77",
@@ -396,8 +395,7 @@
     "used_count": 1,
     "devices": [
       "1c34f8c0ca87ef83eafd0ffc4f2068e4b275ff9582907be82db5e806ea035f56"
-    ],
-    "user_name": "@Raselislambd2025"
+    ]
   },
   {
     "token": "eyJleHAiOjE3NjUwMzgwMzk2MzUsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.042bde54559942e462c183be2a6683ef5245675e58ef5022832abe7b131bc910",
@@ -407,8 +405,7 @@
     "used_count": 1,
     "devices": [
       "1270191a6a2f5fbf5ccc3de32c328df547b259a87e10e86f196c3f1105c9182b"
-    ],
-    "user_name": "@no_name_my_000"
+    ]
   },
   {
     "token": "eyJleHAiOjE3NjQ2MDY0ODQ4NjcsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.b9df4db989cefa61004fb7fc5880fab9d43d0b36fbba6c17c88cb7a8943806ad",
@@ -418,8 +415,7 @@
     "used_count": 1,
     "devices": [
       "c9f7be1d75c361961f81e25757190cae3f37278cbfcc193e99ed2cda2db51045"
-    ],
-    "user_name": "seven1tel"
+    ]
   },
   {
     "token": "eyJleHAiOjE3NjUwMzkzNzMxMjIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.6617cde73a5053f85853b88601f096f453016c278c10e7c367637c3adbbfaabe",
@@ -429,7 +425,6 @@
     "used_count": 1,
     "devices": [
       "48a93a6c4e8f65ef3f9e081f478aceee23357def646cb73637d610fe1539c826"
-    ],
-    "user_name": "@Nazmul_Haque_Asif"
+    ]
   }
 ]
