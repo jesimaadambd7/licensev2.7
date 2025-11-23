@@ -488,17 +488,6 @@
     "user_name": "@Work_online888"
   },
   {
-    "token": "eyJleHAiOjE3NjY0MDI5ODA1NDIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.45021e1c7d37560a4f50fc33ec34837d77b6c4c740f081a6047de3555e272ad6",
-    "created": "2025-11-22",
-    "exp": "2025-12-22",
-    "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "c8436aa96de75fb08c0c9e0d582df7e5d6de4a4604d176e69a08ca8a085ef3de"
-    ],
-    "user_name": "@nusratfariha025"
-  },
-  {
     "token": "eyJleHAiOjE3NjUxNjg3NjM0NDQsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.6b80338678b11eabdf7e7ebe0defcad5e50b68af31839692836579078fe905cb",
     "created": "2025-11-23",
     "exp": "2025-12-08",
