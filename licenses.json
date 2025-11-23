@@ -455,17 +455,6 @@
     "user_name": "@sohelvai11"
   },
   {
-    "token": "eyJleHAiOjE3NjYzOTM1NjM4MTYsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.9970ad22886da95d6a8b0bb361457afb1447e56e91bd8297ab1a027989266466",
-    "created": "2025-11-22",
-    "exp": "2025-12-22",
-    "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "12019f195bd76800a17a8d216c3cb2e3d6ed911824cb855dc6264fc90eac4692"
-    ],
-    "user_name": "@anowar391"
-  },
-  {
     "token": "eyJleHAiOjE3NjUwOTc4ODg2ODgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.e66822f6c382ff049e6fed04f5a9ff2bb3082dcb6cc053f8fc6e1690615ed1cc",
     "created": "2025-11-22",
     "exp": "2025-12-07",
