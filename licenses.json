@@ -525,8 +525,10 @@
     "created": "2025-11-23",
     "exp": "2025-12-09",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "5c26adbbdc1dec203bbf6eb5d6093f29662dda066cc0deb6b747eb4e444c4e97"
+    ],
     "user_name": "@hazrot2001"
   }
 ]
