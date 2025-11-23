@@ -503,8 +503,10 @@
     "created": "2025-11-23",
     "exp": "2025-12-08",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "8be7e5de732f7df3084f7f93cc7f4d79af89f74f15fb28ad7b068029374d007b"
+    ],
     "user_name": "@sheakhshah"
   },
   {
