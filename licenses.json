@@ -541,8 +541,10 @@
     "created": "2025-11-24",
     "exp": "2025-11-29",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "12019f195bd76800a17a8d216c3cb2e3d6ed911824cb855dc6264fc90eac4692"
+    ],
     "user_name": "@anowar391"
   }
 ]
