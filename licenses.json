@@ -416,10 +416,8 @@
     "created": "2025-11-21",
     "exp": "2025-12-01",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "ec0908c40256221c69e903166bafe115d35032bc271181fc5b4d37a8aad3c99e"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjUwODMxNDU1MDIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.16cef924b899a702ba59e200340d7d39cee174b14c770dc4ab6b09bb68bbab03",
@@ -552,5 +550,14 @@
       "12019f195bd76800a17a8d216c3cb2e3d6ed911824cb855dc6264fc90eac4692"
     ],
     "user_name": "@anowar391"
+  },
+  {
+    "token": "eyJleHAiOjE3NjUzMDIxMTIyMjcsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.205b1914b8173e592228d4ea1dc1bf3e768579de680a856b71a9cb1d61d305db",
+    "created": "2025-11-24",
+    "exp": "2025-12-09",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@Blachhhhhl"
   }
 ]
