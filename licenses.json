@@ -680,8 +680,10 @@
     "created": "2025-11-25",
     "exp": "2025-12-10",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "0d5619f067f55f4036d697b457ba8c918f1736804a6cb98e7e9974d53cf3760e"
+    ],
     "user_name": "@sumonislam23457"
   },
   {
