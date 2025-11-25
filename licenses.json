@@ -558,10 +558,8 @@
     "created": "2025-11-24",
     "exp": "2025-12-09",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "79cd4dfc7cf312a9d6806a5a0d305c61b003b15affd0287bfccad7510b228383"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@Blachhhhhl"
   },
   {
@@ -707,10 +705,8 @@
     "created": "2025-11-25",
     "exp": "2025-12-10",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "1c8475eef31b4a5bc7286d50237fbad16e8ae668bfd15dd3a6535557b22bc13e"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@tamim97x"
   },
   {
@@ -721,5 +717,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "@PrinceJemi"
+  },
+  {
+    "token": "eyJleHAiOjE3NjUzNjgyMTM5NjgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.5c2714ce7315848b544d2edd97e35eadb16528e08c39adaa07ccefc9625a4b7d",
+    "created": "2025-11-25",
+    "exp": "2025-12-10",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@fakerony"
   }
 ]
