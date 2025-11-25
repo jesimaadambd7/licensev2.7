@@ -811,8 +811,10 @@
     "created": "2025-11-25",
     "exp": "2025-12-10",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "48e968f11754270d36672aff918b185824bb575eb924087e53ae8db395072fcb"
+    ],
     "user_name": "@FaysalBoney"
   },
   {
