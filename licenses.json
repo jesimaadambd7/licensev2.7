@@ -762,10 +762,8 @@
     "created": "2025-11-25",
     "exp": "2025-12-10",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "04d30aa066ead02903090f335528f81ba95ca6e6da5d577b80e64529f5eb477e"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@Rado559"
   },
   {
@@ -853,5 +851,14 @@
       "629f8ce2b48970533f5d7798f36a9f4def32099db34a36e7e5221bb8eccc6910"
     ],
     "user_name": "@Tamim6066"
+  },
+  {
+    "token": "eyJleHAiOjE3NjUzODg5MjUwNjYsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.8f4ad9ba6d30def525049c01217d2b1064172d0c69391bf9d95a100f9adb60d6",
+    "created": "2025-11-25",
+    "exp": "2025-12-10",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@ASK_ATIKUL"
   }
 ]
