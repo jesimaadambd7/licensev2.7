@@ -733,5 +733,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "@Maxmarud"
+  },
+  {
+    "token": "eyJleHAiOjE3NjUzODAxMTcyNTcsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.dcca11be4a627a35bf3dbb13875f7f6d9681202268a575421a48da68d832bac2",
+    "created": "2025-11-25",
+    "exp": "2025-12-10",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@Agent_7x"
   }
 ]
