@@ -860,8 +860,10 @@
     "created": "2025-11-25",
     "exp": "2025-12-07",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "5c917df865220a9cfc7e80469624f86b3b7335cebecb3707901bce3db31b2f61"
+    ],
     "user_name": "@Himel_B0T"
   }
 ]
