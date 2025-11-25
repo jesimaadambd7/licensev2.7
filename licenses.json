@@ -574,10 +574,8 @@
     "created": "2025-11-24",
     "exp": "2025-12-09",
     "max_uses": 2,
-    "used_count": 1,
-    "devices": [
-      "a8940b7e55f29921e5aea1a09aef5f7ca195c4801597c147736d893594987b3d"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@ASK_ATIKUL"
   },
   {
@@ -585,10 +583,8 @@
     "created": "2025-11-24",
     "exp": "2025-12-09",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "447d9151cf412f295ca51f387d7957f96bc2c6c3e258f7e039500ed634d51d5a"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@Nimu_774"
   },
   {
@@ -596,10 +592,8 @@
     "created": "2025-11-24",
     "exp": "2025-12-09",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "ec0908c40256221c69e903166bafe115d35032bc271181fc5b4d37a8aad3c99e"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "test"
   },
   {
@@ -639,5 +633,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "@Mr_sadik_ss"
+  },
+  {
+    "token": "eyJleHAiOjE3NjUzNDUzMjc0NjMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.b3688cc155d4d71f9d13cf9d8337a8180c4a657d8f5fc23c90dcac56c8c65212",
+    "created": "2025-11-25",
+    "exp": "2025-12-10",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@Sifathub"
   }
 ]
