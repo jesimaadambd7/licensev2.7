@@ -760,5 +760,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "@Rado559"
+  },
+  {
+    "token": "eyJleHAiOjE3NjUzODAzMzQ1NzcsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.1870f59cab1b4c5d72dac21494c08d4bc3b750d10593843397a834595f5a3a53",
+    "created": "2025-11-25",
+    "exp": "2025-12-10",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@MaskmanH"
   }
 ]
