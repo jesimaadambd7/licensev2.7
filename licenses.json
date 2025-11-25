@@ -730,10 +730,8 @@
     "created": "2025-11-25",
     "exp": "2025-12-02",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "de01903e5b63bafc20d0ecb97eeea492c78cbe81ba8c38cb7fb7da8205b5ba5b"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@Maxmarud"
   },
   {
@@ -744,5 +742,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "@Agent_7x"
+  },
+  {
+    "token": "eyJleHAiOjE3NjUzODAxNjI2MDksIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.0d384837b56f9eefad9d4aef152b7462cfe4c0790924f8c37428035bddb0e003",
+    "created": "2025-11-25",
+    "exp": "2025-12-10",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@Fanboy_peaky_blinders"
   }
 ]
