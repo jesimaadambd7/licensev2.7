@@ -738,8 +738,10 @@
     "created": "2025-11-25",
     "exp": "2025-12-10",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "ec0908c40256221c69e903166bafe115d35032bc271181fc5b4d37a8aad3c99e"
+    ],
     "user_name": "@Fanboy_peaky_blinders"
   },
   {
