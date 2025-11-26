@@ -895,8 +895,10 @@
     "created": "2025-11-26",
     "exp": "2025-12-11",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "181db147efe2d87a6219871afcdaef34291eae4a9decec02ce1f1fb69d411f6d"
+    ],
     "user_name": "@aryasin123"
   },
   {
