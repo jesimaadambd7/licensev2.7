@@ -886,10 +886,17 @@
     "created": "2025-11-26",
     "exp": "2025-12-11",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "2ac64873f6d3af3d5df1958285da07caedbdfcc4ab0e8d7e7a7465f1df315a45"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@Ratanmia00"
+  },
+  {
+    "token": "eyJleHAiOjE3NjU0NDEwMDMyNDgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.70df0e27ba7df527dd340fea5cd7ca2f58cf9a639f01e249f63d1ae7e3a10a29",
+    "created": "2025-11-26",
+    "exp": "2025-12-11",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@aryasin123"
   }
 ]
