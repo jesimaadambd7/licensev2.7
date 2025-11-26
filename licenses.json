@@ -886,8 +886,10 @@
     "created": "2025-11-26",
     "exp": "2025-12-11",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "2ac64873f6d3af3d5df1958285da07caedbdfcc4ab0e8d7e7a7465f1df315a45"
+    ],
     "user_name": "@Ratanmia00"
   },
   {
