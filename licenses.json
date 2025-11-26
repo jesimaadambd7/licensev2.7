@@ -868,8 +868,10 @@
     "created": "2025-11-26",
     "exp": "2025-12-08",
     "max_uses": 2,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "a8940b7e55f29921e5aea1a09aef5f7ca195c4801597c147736d893594987b3d"
+    ],
     "user_name": "@ASK_ATIKUL"
   },
   {
