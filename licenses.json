@@ -1017,8 +1017,10 @@
     "created": "2025-11-27",
     "exp": "2025-12-09",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "85fea9538cc18e8a065ee9726889ff4bd0b099fc77fec1db0f2b5e69a7e4a75b"
+    ],
     "user_name": "@Blachhhhhl"
   }
 ]
