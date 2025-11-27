@@ -1004,5 +1004,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "@ASK_ATIKUL"
+  },
+  {
+    "token": "eyJleHAiOjE3NjU1MjU3MjYyNDksIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.b88aa394fff37bd9639b33e652506b080971d94bae511c002f8fd17fff4f1c10",
+    "created": "2025-11-27",
+    "exp": "2025-12-12",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@ASK_ATIKUL"
   }
 ]
