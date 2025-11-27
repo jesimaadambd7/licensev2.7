@@ -960,8 +960,10 @@
     "created": "2025-11-27",
     "exp": "2025-12-12",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "d869ed5a0bcf197ee6712464c9ea662a632d9e9a59ec4863ce6adb367591d497"
+    ],
     "user_name": "@asifahmed1285"
   },
   {
