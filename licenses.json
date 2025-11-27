@@ -1026,8 +1026,10 @@
     "created": "2025-11-27",
     "exp": "2025-12-12",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "4d36ac5aea4a10a4c68d7eae8df53cce501d608df90ff2fcc13c607d19b1a956"
+    ],
     "user_name": "@noyon43g"
   }
 ]
