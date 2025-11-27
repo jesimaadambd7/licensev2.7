@@ -971,8 +971,10 @@
     "created": "2025-11-27",
     "exp": "2025-12-27",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "a655c32bbad4515ba5b8114b2ee70646954801a31ecbe99245a8350907d3e8a3"
+    ],
     "user_name": "@Mr_sadik_ss"
   }
 ]
