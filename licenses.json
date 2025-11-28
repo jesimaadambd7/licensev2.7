@@ -1050,10 +1050,8 @@
     "created": "2025-11-28",
     "exp": "2025-12-13",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "a3bf27dfae7da55e2313e1119bcf859f337ec7a5b2b9a271bd964ca3c3045cdf"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@shimulrays1"
   },
   {
@@ -1061,10 +1059,17 @@
     "created": "2025-11-28",
     "exp": "2025-12-13",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "89e55af3df645f2a92b75c82432c06fcff387175c3b6d3a1e84f97b4e9d14f96"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@shimulrays1"
+  },
+  {
+    "token": "eyJleHAiOjE3NjU2NDg2MDYxNzYsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.2324fe0a156ec44d84a909dd1e6132ad6c242a24c1210cc96a248fae5210ec5b",
+    "created": "2025-11-28",
+    "exp": "2025-12-13",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@Owner_Raven_Bot"
   }
 ]
