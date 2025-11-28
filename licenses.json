@@ -1061,8 +1061,10 @@
     "created": "2025-11-28",
     "exp": "2025-12-13",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "89e55af3df645f2a92b75c82432c06fcff387175c3b6d3a1e84f97b4e9d14f96"
+    ],
     "user_name": "@shimulrays1"
   }
 ]
