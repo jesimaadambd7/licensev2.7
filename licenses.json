@@ -1039,8 +1039,10 @@
     "created": "2025-11-28",
     "exp": "2025-12-13",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "9a53dc64590c9acb24d29ade312919c4178c7b241c6c37a443a751d7892c44d5"
+    ],
     "user_name": "@Abirmia101010"
   }
 ]
