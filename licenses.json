@@ -1048,8 +1048,10 @@
     "created": "2025-11-28",
     "exp": "2025-12-13",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "a3bf27dfae7da55e2313e1119bcf859f337ec7a5b2b9a271bd964ca3c3045cdf"
+    ],
     "user_name": "@shimulrays1"
   },
   {
