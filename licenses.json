@@ -24,10 +24,8 @@
     "created": "2025-11-16",
     "exp": null,
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "15156a463883d7f0ddbc8a695881b444015e4218a04cd62435a4c5245aa916aa"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjQ2MDcxMjI1NTAsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.56ca978c92110b646a0a2f614a9b4394441dfe751283b44511a065c1e6ecf679",
@@ -1086,5 +1084,14 @@
       "81dc3f27379fb3a66cbb42e73f27ddc963dc7c4529ab961a108803257633a276"
     ],
     "user_name": "@badhanroyantu"
+  },
+  {
+    "token": "eyJleHAiOjE3NjU3MjU2MjIyMjQsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.e6747ab7a1aa47f1a4296332b40d14d253f83d503bd776965018670f4f2f1ce7",
+    "created": "2025-11-29",
+    "exp": "2025-12-14",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@najim3600"
   }
 ]
