@@ -232,7 +232,7 @@
   {
     "token": "eyJleHAiOjE3NjQ4NDI4ODk2NDYsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.6cd34caa5fbc4a79b61e114b85bf6f5bf2804631f6417449cb2eff765de948c9",
     "created": "2025-11-19",
-    "exp": "2025-12-04",
+    "exp": null,
     "max_uses": 1,
     "used_count": 1,
     "devices": [
