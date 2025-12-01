@@ -1108,10 +1108,17 @@
     "created": "2025-12-01",
     "exp": "2025-12-10",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "736bd407e5e88db4c598d33d078c500b0ae3c749ffcb468c3ba3048760fc6793"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@Sabbir7254"
+  },
+  {
+    "token": "eyJleHAiOjE3NjU5MDE1ODA3NTgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.72051cab09748501ce8b44bf18dd983b5f06ede2c10acd6067421e3c32471baa",
+    "created": "2025-12-01",
+    "exp": "2025-12-16",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@Jotirmoyroy80"
   }
 ]
