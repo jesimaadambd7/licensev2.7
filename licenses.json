@@ -1187,8 +1187,10 @@
     "created": "2025-12-02",
     "exp": "2025-12-17",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "fa6c8d5eceb93286d454e61cd59526e50af64929e904d2e996d02664a2735968"
+    ],
     "user_name": "@muhammadranamia"
   },
   {
