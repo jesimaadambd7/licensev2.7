@@ -1246,5 +1246,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "free"
+  },
+  {
+    "token": "eyJleHAiOjE3NjU5ODkzNzIzOTUsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.86d78989150764d38d05eabb064086c9acbe0d494d3dd7e85d6aa0652512f534",
+    "created": "2025-12-02",
+    "exp": "2025-12-17",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@ahmedmaruf90"
   }
 ]
