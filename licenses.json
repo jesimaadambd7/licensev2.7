@@ -1216,8 +1216,10 @@
     "created": "2025-12-02",
     "exp": "2025-12-17",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "4615901563c04b5f9524fc2b21d3cfa50e5449ecf95043b1f885e70ad302488e"
+    ],
     "user_name": "@ri200435"
   },
   {
