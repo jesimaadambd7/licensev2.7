@@ -1252,8 +1252,10 @@
     "created": "2025-12-02",
     "exp": "2025-12-17",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "df95cfca044c48201d8c2cc49a52cd56c7f7555813cd9b9eb35c023a70b333e4"
+    ],
     "user_name": "@ahmedmaruf90"
   },
   {
