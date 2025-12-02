@@ -1160,8 +1160,10 @@
     "created": "2025-12-02",
     "exp": "2025-12-17",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "c0aef8b047a289024bd31e6fe0112d21a0222af781fafd1eebd54b71ef94cfbd"
+    ],
     "user_name": "@Asshohag52"
   },
   {
