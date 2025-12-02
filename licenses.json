@@ -1237,5 +1237,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "@Maxmarud"
+  },
+  {
+    "token": "eyJleHAiOjE3NjU5ODg0MzM5MDgsIm1heF91c2VzIjoyLCJ1c2VyIjoidXNlciJ9.8f5ec3a339451fb4b8a82f671157fc6ce19e441bc576e8d89dbd6aa7edf1aa4d",
+    "created": "2025-12-02",
+    "exp": "2025-12-17",
+    "max_uses": 2,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "free"
   }
 ]
