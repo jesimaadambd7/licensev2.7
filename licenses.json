@@ -1326,15 +1326,6 @@
     "max_uses": 1,
     "used_count": 0,
     "devices": [],
-    "user_name": "1_2"
-  },
-  {
-    "token": "eyJleHAiOjE3NjYwMzM1NjE1ODYsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.e32e85e6ebfd49ca3f8480aa5e5fbe21dd2ecd208e8f2846f64a31419918d977",
-    "created": "2025-12-03",
-    "exp": "2025-12-18",
-    "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
     "user_name": "1_3"
   },
   {
