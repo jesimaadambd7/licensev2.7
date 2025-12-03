@@ -1247,8 +1247,10 @@
     "created": "2025-12-02",
     "exp": "2025-12-17",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "d371dd4e6751356768d41239158a0cfc240a47a6bf3be601b8c3eda1ca4ff504"
+    ],
     "user_name": "free"
   },
   {
