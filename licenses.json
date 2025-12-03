@@ -1225,10 +1225,8 @@
     "created": "2025-12-02",
     "exp": "2025-12-17",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "f00c7f9c94eb80102599528a4197fa9bffa20545e1de645d1de0bf8b05a14e73"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@mdmunna01"
   },
   {
@@ -1320,15 +1318,6 @@
     "used_count": 0,
     "devices": [],
     "user_name": "1"
-  },
-  {
-    "token": "eyJleHAiOjE3NjYwMzM1NjE1ODYsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.e32e85e6ebfd49ca3f8480aa5e5fbe21dd2ecd208e8f2846f64a31419918d977",
-    "created": "2025-12-03",
-    "exp": "2025-12-18",
-    "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
-    "user_name": "1_9"
   },
   {
     "token": "eyJleHAiOjE3NjYwMzM1NjE1ODYsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.e32e85e6ebfd49ca3f8480aa5e5fbe21dd2ecd208e8f2846f64a31419918d977",
