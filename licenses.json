@@ -1522,5 +1522,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "User_10"
+  },
+  {
+    "token": "eyJleHAiOjE3NjYwNzIwNTgyNDMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.282709456d16a84d8f2e4cbb82e16584d1559c8590d336453ffad86755f706c2",
+    "created": "2025-12-03",
+    "exp": "2025-12-18",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@sr_calling"
   }
 ]
