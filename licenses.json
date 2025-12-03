@@ -1274,8 +1274,10 @@
     "created": "2025-12-02",
     "exp": "2025-12-17",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "f55ad652a994a3cf5ee97210f19a3d32ce07d4dfb952930d1fbabf0038848810"
+    ],
     "user_name": "@CipherOracle"
   },
   {
