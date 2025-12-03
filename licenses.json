@@ -1530,8 +1530,10 @@
     "created": "2025-12-03",
     "exp": "2025-12-18",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "2b1f44b2074b3b687a26c16c3733b058762389a6ecb7918d5ee2579503dcc8d1"
+    ],
     "user_name": "@sr_calling"
   },
   {
