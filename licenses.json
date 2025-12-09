@@ -421,17 +421,6 @@
         "user_name": "@Himel_B0T"
     },
     {
-        "token": "eyJleHAiOjE3NjU3MTExOTMwMDAsIm1heF91c2VzIjoxLCJ1c2VyIjoiRGlnaXRhbFBhcm1lc2h3YXIifQ.11ab4141601876cb87b9057985e80d943f8be858720dcbb0522d9de86786682e",
-        "created": "2025-11-30",
-        "exp": "2025-12-14",
-        "max_uses": 1,
-        "used_count": 1,
-        "devices": [
-            "b8c937cde64c331c6b467d40b50c7c722cbcebf9a243821bef821f8e7533c44a"
-        ],
-        "user_name": "@DigitalParmeshwar"
-    },
-    {
         "token": "eyJleHAiOjE3NjU0NDIwMTQwMDgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.ff2d636c20908a22c75ba28f2827ce5ee43950ad646404b17a186aa5aaf2213c",
         "created": "2025-11-26",
         "exp": "2025-12-11",
