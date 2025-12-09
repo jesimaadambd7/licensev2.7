@@ -410,17 +410,6 @@
         "user_name": "@alaminhasanjoy"
     },
     {
-        "token": "eyJleHAiOjE3NjUzODYxNzkyMjEsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.87139573c399ae7f78180b76c88eccd53938f9b99393d62edf6accff37fe0db2",
-        "created": "2025-11-25",
-        "exp": "2025-12-10",
-        "max_uses": 1,
-        "used_count": 1,
-        "devices": [
-            "629f8ce2b48970533f5d7798f36a9f4def32099db34a36e7e5221bb8eccc6910"
-        ],
-        "user_name": "@Tamim6066"
-    },
-    {
         "token": "eyJleHAiOjE3NjUxMjk5Nzg3NTQsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.8a71428c21a76189214b2650e780bbe4f66ec8d10c0e1447ee8ac9c64ffa5059",
         "created": "2025-11-25",
         "exp": "2025-12-07",
