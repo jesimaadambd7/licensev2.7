@@ -421,18 +421,6 @@
         "user_name": "@Himel_B0T"
     },
     {
-        "token": "eyJleHAiOjE3NjUxNzIyMzU1NjcsIm1heF91c2VzIjoyLCJ1c2VyIjoidXNlciJ9.92892fc2e90d2744fe6480f6377ce09d10bbf7460493a9ebe62f223008c2a9fe",
-        "created": "2025-11-26",
-        "exp": "2025-12-10",
-        "max_uses": 2,
-        "used_count": 2,
-        "devices": [
-            "127deb53631b26022ae9266d9b5bb5dce864cd7255954ad5da7e206226071fc5",
-            "a8940b7e55f29921e5aea1a09aef5f7ca195c4801597c147736d893594987b3d"
-        ],
-        "user_name": "@ASK_ATIKUL"
-    },
-    {
         "token": "eyJleHAiOjE3NjU0NDEwMDMyNDgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.70df0e27ba7df527dd340fea5cd7ca2f58cf9a639f01e249f63d1ae7e3a10a29",
         "created": "2025-11-26",
         "exp": "2025-12-11",
