@@ -1741,8 +1741,10 @@
     "created": "2025-12-06",
     "exp": "2025-12-21",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "4f3d1a3ef7051a7726b42871d00f9abcd0b582a52b04f0b1e8fad03f8ac47afd"
+    ],
     "user_name": "@Raselislambd2025_14"
   },
   {
