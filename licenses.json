@@ -450,17 +450,6 @@
         "user_name": "@Fanboy_peaky_blinders"
     },
     {
-        "token": "eyJleHAiOjE3NjUzODAzMTYyMjQsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.761ef6c3016c7653c801ce31ce1e198e2f96e4a7f9cb462b200403f697fc912f",
-        "created": "2025-11-25",
-        "exp": "2025-12-10",
-        "max_uses": 1,
-        "used_count": 1,
-        "devices": [
-            "04d30aa066ead02903090f335528f81ba95ca6e6da5d577b80e64529f5eb477e"
-        ],
-        "user_name": "@Rado559"
-    },
-    {
         "token": "eyJleHAiOjE3NjQ1MTg2OTUyNjMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.2f9b6ea5be47810cd117d26323f5b31ca2abab56863e5b4a93d448190e532229",
         "created": "2025-11-25",
         "exp": "2025-11-30",
