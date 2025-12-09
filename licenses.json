@@ -494,17 +494,6 @@
         "user_name": "@Insur1462"
     },
     {
-        "token": "eyJleHAiOjE3NjUzODI2NTU1NDMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.d4eb3d782642ab324982801073cefc4b1e418992013ca83f9fef4601e8c2e359",
-        "created": "2025-11-25",
-        "exp": "2025-12-10",
-        "max_uses": 1,
-        "used_count": 1,
-        "devices": [
-            "40eb99bc3e577cc3e03118ae70daa730e338e0c621802c41f6150d3a633411eb"
-        ],
-        "user_name": "@Asshohag52"
-    },
-    {
         "token": "eyJleHAiOjE3NjQ1MTg2OTUyNjMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.2f9b6ea5be47810cd117d26323f5b31ca2abab56863e5b4a93d448190e532229",
         "created": "2025-11-25",
         "exp": "2025-11-30",
