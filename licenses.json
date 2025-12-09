@@ -433,17 +433,6 @@
         "user_name": "@ASK_ATIKUL"
     },
     {
-        "token": "eyJleHAiOjE3NjU0MzE5Mjk5MDMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.37459a057797ea28d0395ba5cad4eec7f4ffc8d73c7d66862f8aed70ae6e3f17",
-        "created": "2025-11-26",
-        "exp": "2025-12-11",
-        "max_uses": 1,
-        "used_count": 1,
-        "devices": [
-            "c1583cfb0a9d0283acfcd982c83dfaedab1fdec2da672ff1f04d7f902f7317e0"
-        ],
-        "user_name": "@sbporosh"
-    },
-    {
         "token": "eyJleHAiOjE3NjU0NDEwMDMyNDgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.70df0e27ba7df527dd340fea5cd7ca2f58cf9a639f01e249f63d1ae7e3a10a29",
         "created": "2025-11-26",
         "exp": "2025-12-11",
