@@ -461,17 +461,6 @@
         "user_name": "@Rado559"
     },
     {
-        "token": "eyJleHAiOjE3NjUzODAzMzQ1NzcsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.1870f59cab1b4c5d72dac21494c08d4bc3b750d10593843397a834595f5a3a53",
-        "created": "2025-11-25",
-        "exp": "2025-12-10",
-        "max_uses": 1,
-        "used_count": 1,
-        "devices": [
-            "c244ec8a2482c7bf0e8eddbbc5396fa7657c97f4747ee8e617c4f0ff88e22f9a"
-        ],
-        "user_name": "@MaskmanH"
-    },
-    {
         "token": "eyJleHAiOjE3NjQ1MTg2OTUyNjMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.2f9b6ea5be47810cd117d26323f5b31ca2abab56863e5b4a93d448190e532229",
         "created": "2025-11-25",
         "exp": "2025-11-30",
