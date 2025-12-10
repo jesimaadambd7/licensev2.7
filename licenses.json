@@ -1949,8 +1949,10 @@
     "created": "2025-12-10",
     "exp": "2025-12-25",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "00b8d396c5ba8611c62aab7171adf42bc95235acb130ce86cafdb1779d84f949"
+    ],
     "user_name": "@Nazmul_Haque_Asif"
   }
 ]
