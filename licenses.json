@@ -1922,10 +1922,8 @@
     "created": "2025-12-10",
     "exp": "2025-12-18",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "47a323e3aca8a105cf9232a2adea75a8dfb85553d42c778ba34d8e891013d128"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@alamin336699"
   },
   {
@@ -1936,5 +1934,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "@on_ly_sai_mon"
+  },
+  {
+    "token": "eyJleHAiOjE3NjY0MTY4MjY5NjksIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.c4d1718d663f04d8dfb5b9d49e7eee802268b2357075ac09d9d4383b89e8d424",
+    "created": "2025-12-10",
+    "exp": "2025-12-22",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@hidden_man22"
   }
 ]
