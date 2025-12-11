@@ -2029,10 +2029,17 @@
     "created": "2025-12-11",
     "exp": "2025-12-21",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "ab145410f386cfe6f9da74019ddbe48a4e4f07645ae077a101555d3a0e2b0957"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@mrakashvai"
+  },
+  {
+    "token": "eyJleHAiOjE3NjY3NjYwMDI5NTMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.507d8046c3590226d53a1115c7a136ce29687e01af4c6095758fbdf7344d93d8",
+    "created": "2025-12-11",
+    "exp": "2025-12-26",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@Sujon2690"
   }
 ]
