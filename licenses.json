@@ -152,7 +152,7 @@
   {
     "token": "eyJleHAiOjE3NjQ4MzgxNDAwNzQsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.5beefe6f44f9305697006b8cfce8d5d2e902e3d49ff246fcdb51853261eea29d",
     "created": "2025-11-19",
-    "exp": "2026-01-18",
+    "exp": null,
     "max_uses": 1,
     "used_count": 1,
     "devices": [
