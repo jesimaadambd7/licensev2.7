@@ -2012,8 +2012,10 @@
     "created": "2025-12-11",
     "exp": "2025-12-26",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "634236bb5898316c508c3c9eccc2d63e5a8e7c5d9a21b9ac60d1644eb22bbcae"
+    ],
     "user_name": "@rafsan2303"
   },
   {
