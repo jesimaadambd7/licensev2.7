@@ -1983,8 +1983,10 @@
     "created": "2025-12-11",
     "exp": "2025-12-26",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "8b15f64905884985b13517316754a81f42f8e6e7069ae512d2e8da431b74a6e4"
+    ],
     "user_name": "@yeasinmals"
   }
 ]
