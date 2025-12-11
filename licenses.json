@@ -1910,10 +1910,8 @@
     "created": "2025-12-10",
     "exp": "2025-12-18",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "5778be3d0da02cd53c31291dd923a6134f086637c73288d9ea860f94491d0a80"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@Mr_sadik_ss"
   },
   {
@@ -1999,5 +1997,14 @@
     "used_count": 0,
     "devices": [],
     "user_name": "@Jakariakhansaheb"
+  },
+  {
+    "token": "eyJleHAiOjE3NjY3NTU2MzMxODYsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.d0fb1d4af9b3d4afe5b244f3772f3bd33de3a349e3504491fdcb346ceea462d7",
+    "created": "2025-12-11",
+    "exp": "2025-12-26",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@ebrahim01779"
   }
 ]
