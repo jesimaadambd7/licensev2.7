@@ -1910,8 +1910,10 @@
     "created": "2025-12-10",
     "exp": "2025-12-18",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "5778be3d0da02cd53c31291dd923a6134f086637c73288d9ea860f94491d0a80"
+    ],
     "user_name": "@Mr_sadik_ss"
   },
   {
