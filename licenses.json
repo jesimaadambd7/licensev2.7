@@ -2029,8 +2029,10 @@
     "created": "2025-12-11",
     "exp": "2025-12-21",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "ab145410f386cfe6f9da74019ddbe48a4e4f07645ae077a101555d3a0e2b0957"
+    ],
     "user_name": "@mrakashvai"
   },
   {
