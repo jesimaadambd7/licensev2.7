@@ -2242,8 +2242,10 @@
     "created": "2025-12-13",
     "exp": "2025-12-28",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "c4cd3a00f7e27157ff32cfd1a07d07c001f28f1375e0bebf9efe78fe7b7ead9a"
+    ],
     "user_name": "@anikghosh2"
   }
 ]
