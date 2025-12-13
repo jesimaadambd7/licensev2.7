@@ -2189,8 +2189,10 @@
     "created": "2025-12-13",
     "exp": "2025-12-28",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "951c221514a24f8b2e0d9aeafafdfc34748397a0509849e5461aa9a44dc6a20a"
+    ],
     "user_name": "@T_lover1"
   }
 ]
