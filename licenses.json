@@ -2146,8 +2146,10 @@
     "created": "2025-12-12",
     "exp": "2025-12-27",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "4072a542d6395089dbfc3f213158e93f340e0718c71c3e25671b06ff6789d0ab"
+    ],
     "user_name": "nayemul_7"
   },
   {
