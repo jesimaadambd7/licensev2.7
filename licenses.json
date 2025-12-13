@@ -2208,8 +2208,10 @@
     "created": "2025-12-13",
     "exp": "2025-12-28",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "34e6595fbe867b2c7a6e4a4f2d925384d47b8cd9689cf470c7affc7088de51f9"
+    ],
     "user_name": "@noyon43g_2"
   },
   {
