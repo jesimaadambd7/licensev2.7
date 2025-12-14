@@ -2240,8 +2240,10 @@
     "created": "2025-12-13",
     "exp": "2025-12-28",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "5cce0a87262c120e154c9809237120f68da9c173f951b5b6c636820eeac54c19"
+    ],
     "user_name": "@Devilhunter367"
   },
   {
