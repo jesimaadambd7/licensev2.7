@@ -1998,10 +1998,8 @@
     "created": "2025-12-11",
     "exp": "2025-12-26",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "9c624ec026cda7b832a3f6ac56d53b6f95a24af0ea2cb1588725ffa776ab3731"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@MUNNABHAI_BD"
   },
   {
@@ -2315,10 +2313,8 @@
     "created": "2025-12-13",
     "exp": "2025-12-28",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "6095bfe4bc2c94e55717a83909b52517eb8a6c163cbf5a005e3f4b3c88464b81"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "nayem_5"
   },
   {
@@ -2326,10 +2322,8 @@
     "created": "2025-12-13",
     "exp": "2025-12-28",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "3aae856396d25a9ac91daf37fd542606e7aa3f235b33f3556da7c3dc6e8833bd"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "nayem_6"
   },
   {
@@ -2348,10 +2342,8 @@
     "created": "2025-12-13",
     "exp": "2025-12-28",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "9454c6155e57509e30ae8ea987967f3128639c60893262c5d8b91168818e4312"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "nayem_8"
   },
   {
@@ -2359,10 +2351,8 @@
     "created": "2025-12-13",
     "exp": "2025-12-28",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "b7793f40643c02ea8b6d139d07e4dfb6538844ec2346d7ba7562c4840b1d0109"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "nayem_9"
   },
   {
@@ -2370,10 +2360,17 @@
     "created": "2025-12-13",
     "exp": "2025-12-28",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "278d856fd976e93f2c535e7cd731db5a6062ee69e484ef9d1311df56301b1a81"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "nayem_10"
+  },
+  {
+    "token": "eyJleHAiOjE3NjcxMTMwMDU2NDIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.970f3e91144c15c6f0ae964b13cb306673ddc2663efac538a502ce8912179b53",
+    "created": "2025-12-15",
+    "exp": "2025-12-30",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@Tamim6066"
   }
 ]
