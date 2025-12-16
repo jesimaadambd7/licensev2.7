@@ -2481,8 +2481,10 @@
     "created": "2025-12-16",
     "exp": "2025-12-31",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "4ad5ac65b0c66e49cc61ec6abd7cc798c41f55bf370ce681842024e4e921e5e6"
+    ],
     "user_name": "@Asshohag52"
   }
 ]
