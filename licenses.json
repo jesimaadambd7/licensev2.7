@@ -2525,8 +2525,10 @@
     "created": "2025-12-16",
     "exp": "2025-12-31",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "736bd407e5e88db4c598d33d078c500b0ae3c749ffcb468c3ba3048760fc6793"
+    ],
     "user_name": "@Sabbir7254"
   }
 ]
