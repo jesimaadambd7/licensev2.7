@@ -2322,10 +2322,8 @@
     "created": "2025-12-13",
     "exp": "2025-12-28",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "3aae856396d25a9ac91daf37fd542606e7aa3f235b33f3556da7c3dc6e8833bd"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "nayem_6"
   },
   {
@@ -2415,10 +2413,8 @@
     "created": "2025-12-16",
     "exp": "2025-12-31",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "0c7de3e1bdbf9564a446c58cacb1ae4a927a1e2b1949aa1a163a2dd763dfea01"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "nayem_4"
   },
   {
@@ -2500,10 +2496,8 @@
     "created": "2025-12-16",
     "exp": "2025-12-31",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "57ce5b50ce363d0541eb08540f85e43e5f5914a11bee0619a36acf67dd94bd9e"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@grsohanR"
   },
   {
@@ -2511,10 +2505,8 @@
     "created": "2025-12-16",
     "exp": "2025-12-31",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "ef5ab38ea469c4d1a72f1c8d654552896926adaae612557face8a3095ea84543"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@Asshohag52"
   },
   {
@@ -2580,10 +2572,8 @@
     "created": "2025-12-16",
     "exp": "2026-01-15",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "4dce526cfa7a1889527d6100182aa42415474134195593e2c17c408c7c567566"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@Rasel2k11"
   },
   {
@@ -2611,10 +2601,17 @@
     "created": "2025-12-17",
     "exp": "2026-01-01",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "8b13f1d935215894f751879c02dbb37669f0d78baf5a761e565c0e0ca8b95ec9"
-    ],
+    "used_count": 0,
+    "devices": [],
     "user_name": "@alamin336699"
+  },
+  {
+    "token": "eyJleHAiOjE3NjcyNTI1NzYzNTYsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.e0f22910118aa52a5fa0540914e64d5b3439850b85aeea582fadf3b79cedd5b1",
+    "created": "2025-12-17",
+    "exp": "2026-01-01",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": [],
+    "user_name": "@robiulhasanlll"
   }
 ]
