@@ -2625,8 +2625,10 @@
     "created": "2025-12-17",
     "exp": "2026-01-01",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "8b13f1d935215894f751879c02dbb37669f0d78baf5a761e565c0e0ca8b95ec9"
+    ],
     "user_name": "@alamin336699"
   },
   {
