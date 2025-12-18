@@ -2553,8 +2553,10 @@
     "created": "2025-12-16",
     "exp": "2026-01-15",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "5100ef1d22cb8fd4cee87f843a9953172e7f04d988c6cda75dbd9c716eaa5743"
+    ],
     "user_name": "@Mdraselkhan0"
   },
   {
