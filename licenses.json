@@ -2694,8 +2694,10 @@
     "created": "2025-12-18",
     "exp": "2026-01-02",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "c08e8f462a747db3a3bd1f3c3bf1cf96bb835da0e096c414b3a5aed1df072634"
+    ],
     "user_name": "Nayem vai_4"
   },
   {
