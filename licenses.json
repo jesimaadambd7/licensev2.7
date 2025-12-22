@@ -796,9 +796,9 @@
         "user_name": "@aryasin123"
     },
     {
-        "token": "eyJleHAiOjE3NjY4MzY2MTMwMDAsIm1heF91c2VzIjoxLCJ1c2VyIjoiRGlnaXRhbFBhcm1lc2h3YXIifQ.84aad4996e0da80493877ccf7383ba195123e2e58e1daffba5959002e55d356a",
+        "token": "eyJleHAiOjE3Njg5OTY2NTQwMDAsIm1heF91c2VzIjoxLCJ1c2VyIjoiRGlnaXRhbFBhcm1lc2h3YXIifQ.14d1ab05a7ff10797aadee10dd44f6a5706ce706129b4d80569c7799ad431386",
         "created": "2025-12-22",
-        "exp": "2025-12-27",
+        "exp": "2026-01-21",
         "max_uses": 1,
         "used_count": 1,
         "devices": [
