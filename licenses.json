@@ -1743,7 +1743,7 @@
   {
     "token": "eyJleHAiOjE3NjYzMjc5NDAyNDYsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlcl8xNzY1MDMxOTQwMjQ2XzE3XzVmMzIyMTAxIn0.83df82ec1dc5ca16f77b7dba1f01b32725a0b55878770db39e12641636989b8c",
     "created": "2025-12-06",
-    "exp": "2025-12-21",
+    "exp": "2025-12-24",
     "max_uses": 1,
     "used_count": 1,
     "devices": [
