@@ -2882,9 +2882,10 @@
     "created": "2025-12-22",
     "exp": "2027-01-21",
     "max_uses": 5,
-    "used_count": 1,
+    "used_count": 2,
     "devices": [
-      "824ba738fcd0c9dbd05d561bbc11dafdc7e34ad2c5764d633724821e8209128f"
+      "824ba738fcd0c9dbd05d561bbc11dafdc7e34ad2c5764d633724821e8209128f",
+      "77fc655a6860941ce7e07a689c6acdb6c652fa82ca1f2233324cda6f02abfb8d"
     ],
     "user_name": "maswood"
   }
